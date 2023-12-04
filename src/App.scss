@@ -13,6 +13,14 @@ a{
   color: var(--primary);
 }
 
+
+@media (max-width:650px) {
+  .d-mb-none{
+    display: none;
+  }
+}
+
+
 .py-12{
   padding-top: 12rem ;
 }

@@ -86,7 +86,7 @@ const Nav = () => {
 				{/* <span className="logo__text">CloudServices</span> */}
 				</a>
 
-				<nav className="nav">
+				<nav className=" d-mb-none">
 					<div class="wrapper">
 						<div class="searchBar">
 							<input id="searchQueryInput" type="text" name="searchQueryInput" placeholder="Search" value="" />
@@ -97,13 +97,13 @@ const Nav = () => {
 					</div>
 				</nav>
 			
-				<nav className="nav">
-					<ul className="nav__list">
+				<nav className="">
+					<ul className="nav__list d-mb-flex">
 						<li className="nav__item">
 							<NavLink to="/products"><span className='nav-btns'>Products</span></NavLink>
 						</li>
 						
-						<li className="nav__item">
+						<li className="nav__item d-mb-none">
 							<a href="#contact"><span className='nav-btns'>Contact</span></a>
 						</li>
 						
