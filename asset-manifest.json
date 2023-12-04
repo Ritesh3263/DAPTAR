@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DAPTAR/static/css/main.0cc38d7a.css",
-    "main.js": "/DAPTAR/static/js/main.87c4a60f.js",
+    "main.css": "/DAPTAR/static/css/main.b37f65b1.css",
+    "main.js": "/DAPTAR/static/js/main.1d349663.js",
     "static/js/787.967a71cf.chunk.js": "/DAPTAR/static/js/787.967a71cf.chunk.js",
     "static/media/how.svg": "/DAPTAR/static/media/how.4b1e8b315de2e89474589c1bcad6704d.svg",
     "static/media/school-2.jpg": "/DAPTAR/static/media/school-2.7652eff8b575db13d057.jpg",
@@ -17,12 +17,12 @@
     "static/media/why.svg": "/DAPTAR/static/media/why.2241ecbcb3b0ff078a44772c558ba63a.svg",
     "static/media/revicons.woff": "/DAPTAR/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/DAPTAR/index.html",
-    "main.0cc38d7a.css.map": "/DAPTAR/static/css/main.0cc38d7a.css.map",
-    "main.87c4a60f.js.map": "/DAPTAR/static/js/main.87c4a60f.js.map",
+    "main.b37f65b1.css.map": "/DAPTAR/static/css/main.b37f65b1.css.map",
+    "main.1d349663.js.map": "/DAPTAR/static/js/main.1d349663.js.map",
     "787.967a71cf.chunk.js.map": "/DAPTAR/static/js/787.967a71cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cc38d7a.css",
-    "static/js/main.87c4a60f.js"
+    "static/css/main.b37f65b1.css",
+    "static/js/main.1d349663.js"
   ]
 }
