@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DAPTAR/static/css/main.0cc38d7a.css",
+    "main.js": "/DAPTAR/static/js/main.87c4a60f.js",
+    "static/js/787.967a71cf.chunk.js": "/DAPTAR/static/js/787.967a71cf.chunk.js",
+    "static/media/how.svg": "/DAPTAR/static/media/how.4b1e8b315de2e89474589c1bcad6704d.svg",
+    "static/media/school-2.jpg": "/DAPTAR/static/media/school-2.7652eff8b575db13d057.jpg",
+    "static/media/DAPTAR_LOGO_TRANSP.svg": "/DAPTAR/static/media/DAPTAR_LOGO_TRANSP.cafb6ddffa1d04af11ef196167991dcb.svg",
+    "static/media/school-1.jpg": "/DAPTAR/static/media/school-1.685aa21f37bdc6c7460f.jpg",
+    "static/media/school-3.jpg": "/DAPTAR/static/media/school-3.98a4c35368a72f2e5e1b.jpg",
+    "static/media/dress-1.jpg": "/DAPTAR/static/media/dress-1.0d39ad71140ed93cec9e.jpg",
+    "static/media/dress-3.jpg": "/DAPTAR/static/media/dress-3.c9b8c5ebc9bd5adada1a.jpg",
+    "static/media/what-we-do.svg": "/DAPTAR/static/media/what-we-do.a119aa385f4b8aacf13dbaca3fcc7e41.svg",
+    "static/media/dress-2.jpg": "/DAPTAR/static/media/dress-2.f77a7e6d031994045d6a.jpg",
+    "static/media/revicons.eot": "/DAPTAR/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/DAPTAR/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/why.svg": "/DAPTAR/static/media/why.2241ecbcb3b0ff078a44772c558ba63a.svg",
+    "static/media/revicons.woff": "/DAPTAR/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/DAPTAR/index.html",
+    "main.0cc38d7a.css.map": "/DAPTAR/static/css/main.0cc38d7a.css.map",
+    "main.87c4a60f.js.map": "/DAPTAR/static/js/main.87c4a60f.js.map",
+    "787.967a71cf.chunk.js.map": "/DAPTAR/static/js/787.967a71cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc38d7a.css",
+    "static/js/main.87c4a60f.js"
+  ]
+}
