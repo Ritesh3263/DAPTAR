@@ -1,5 +1,6 @@
 {
-  "name": "ecom-store",
+  "name": "daptar",
+  "homepage": "https://myusername.github.io/DAPTAR",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
